@@ -1,0 +1,11 @@
+{
+  "name": "EventEase",
+  "version": "1.0.0",
+  "milestone": "Checkpoint 4 - Feature Set 2 + Integrations",
+  "status": "Demo-ready",
+  "integrations": [
+    "Payment adapter (Razorpay/Stripe-ready)",
+    "Email adapter (EmailJS/Resend-ready)",
+    "Storage adapter (Supabase/Firebase/Cloudinary-ready)"
+  ]
+}
